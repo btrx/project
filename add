@@ -1,0 +1,53 @@
+[33mcommit 156494ecac15cf11972a8998a00478ce2a0beea0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: btrx <kusumadoni77@gmail.com>
+Date:   Fri Dec 6 22:47:17 2019 +0900
+
+    add circleci
+
+[33mcommit edd4d70d6c50605c3ddb8df66b5d021bfa43d9fd[m
+Author: btrx <kusumadoni77@gmail.com>
+Date:   Fri Dec 6 22:38:14 2019 +0900
+
+    add circleci
+
+[33mcommit 14998f8aa580f0651379afe10230d731f43e78fd[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: btrx <kusumadoni77@gmail.com>
+Date:   Fri Dec 6 09:56:45 2019 +0900
+
+    config db
+
+[33mcommit cdd18995666397529fee712daf33dbc6ca4ec293[m
+Author: btrx <kusumadoni77@gmail.com>
+Date:   Fri Dec 6 09:42:17 2019 +0900
+
+    config mysqldb
+
+[33mcommit bd38463703909df01ebedac99abba462f4a86ab8[m
+Author: btrx <kusumadoni77@gmail.com>
+Date:   Thu Dec 5 17:33:22 2019 +0900
+
+    addheroku config database
+
+[33mcommit 0b2e6559afcbf983cc7f84cb5616dae93a43d2e8[m
+Author: btrx <kusumadoni77@gmail.com>
+Date:   Thu Dec 5 17:24:14 2019 +0900
+
+    anu
+
+[33mcommit 4f274ed87efefb80e58fbca7c3c425e05942d15b[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: btrx <kusumadoni77@gmail.com>
+Date:   Thu Dec 5 17:22:25 2019 +0900
+
+    anu
+
+[33mcommit 2da1d387b55fc2c31b1c79f00765081eb44bee7f[m
+Author: btrx <kusumadoni77@gmail.com>
+Date:   Thu Dec 5 16:34:08 2019 +0900
+
+    Procfile for Heroku
+
+[33mcommit 227cf1a641e854e53941626a0221ecccf9d558f3[m
+Author: btrx <kusumadoni77@gmail.com>
+Date:   Thu Dec 5 16:13:47 2019 +0900
+
+    Initial commit
